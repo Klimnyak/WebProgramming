@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "koa": "^2.16.0"
+  },
+  "scripts": {
+    "start": "node my-koa-app.js"
+  }
+}
+
